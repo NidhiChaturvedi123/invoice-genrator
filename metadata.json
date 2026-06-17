@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator",
+  "description": "A simple, clean, and mobile-friendly offline single-page Invoice Generator to quickly create and download professional invoices as PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
